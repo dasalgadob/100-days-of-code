@@ -4,11 +4,11 @@
 
 **Today's Objective**: Implement import and export from my accountingSoftware Project also I am going to solve a problem in hackerearth about graph.
 
-**Today's Progress**: 
+**Today's Progress**: The changes to the seed files were succesfull, for inclunding the PUC registers
 
-**Thoughts:** 
+**Thoughts:**  I struggle with he header problem and reseting the database.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Accounting Software](https://github.com/dasalgadob/accountingSoftware)
 
 ### Day 1: June 27, Monday
 
