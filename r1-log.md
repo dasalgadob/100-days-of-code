@@ -1,9 +1,9 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Diego Salgado]
 
-The log of my #100DaysOfCode challenge. Started on [June 13, Wednesday, 2018].
+The log of my #100DaysOfCode challenge. Started on [June 25, Monday, 2018].
 
 ## Log
 
 ### R1D1 
-Solved problem in graph monk and the real state
+solved the test problem for bfs in hackerearh in practice section explanation, the idea was to determine the amount of nodes per level.
 ### R1D2
