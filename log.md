@@ -10,12 +10,11 @@
 
 **Link to work:** [Accounting Software](https://github.com/dasalgadob/accountingSoftware)
 
-### Day 1: June 27, Monday
+### Day 2: June 26, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I`ve added a new subdomain to be able to use https in the production site of the project.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** The idea with the accounting app is to make it part of my portfolio.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Accounting Software](https://github.com/dasalgadob/accountingSoftware)  https://railspruebas.diecos.tk/
