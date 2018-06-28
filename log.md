@@ -19,7 +19,7 @@
 **Link(s) to work**
 1. [Accounting Software](https://github.com/dasalgadob/accountingSoftware)  https://railspruebas.diecos.tk/
 
-### Day 3: June 27, Wednesday
+### Day 3: June 27, Wednesday
 
 **Today's Progress**: Solved html section in freeCodeCamp
 
