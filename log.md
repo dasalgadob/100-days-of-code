@@ -18,3 +18,12 @@
 
 **Link(s) to work**
 1. [Accounting Software](https://github.com/dasalgadob/accountingSoftware)  https://railspruebas.diecos.tk/
+
+### Day 3: June 27, Wednesday
+
+**Today's Progress**: Solved html section in freeCodeCamp
+
+**Thoughts**: It's true that those topics I have know them for a long time, but it's the base for all the advanced topics that I want to learn after.
+
+**Link to work**
+1. [FreeCodeCamp html](https://github.com/dasalgadob/freeCodeCamp/tree/master/html)
