@@ -27,3 +27,21 @@
 
 **Link to work**
 1. [FreeCodeCamp html](https://github.com/dasalgadob/freeCodeCamp/tree/master/html)
+
+### Day 4: June 28, Thursday
+
+**Today's Progress**: Solved first css section in freeCodeCamp
+
+**Thoughts**: It's true that those topics I have know them for a long time, but it's the base for all the advanced topics that I want to learn after.
+
+**Link to work**
+1. [FreeCodeCamp html](https://github.com/dasalgadob/freeCodeCamp/tree/master/html)
+
+### Day 5: June 27, Wednesday
+
+**Today's Progress**: Continue css section in freeCodeCamp
+
+**Thoughts**: It's true that those topics I have know them for a long time, but it's the base for all the advanced topics that I want to learn after.
+
+**Link to work**
+1. [FreeCodeCamp html](https://github.com/dasalgadob/freeCodeCamp/tree/master/html)
