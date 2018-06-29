@@ -37,11 +37,12 @@
 **Link to work**
 1. [FreeCodeCamp html](https://github.com/dasalgadob/freeCodeCamp/tree/master/html)
 
-### Day 5: June 27, Wednesday
+### Day 5: June 29, Friday
 
-**Today's Progress**: Continue css section in freeCodeCamp
+**Today's Progress**: Continue css section in freeCodeCamp. Started to implement breadcrumbs in accounting app.
 
-**Thoughts**: It's true that those topics I have know them for a long time, but it's the base for all the advanced topics that I want to learn after.
+**Thoughts**: It's true that those topics I have know them for a long time, but it's the base for all the advanced topics that I want to learn after. It was a little hard to figure it out how to solve the problem.
 
 **Link to work**
 1. [FreeCodeCamp html](https://github.com/dasalgadob/freeCodeCamp/tree/master/html)
+2. [Accounting App](https://github.com/dasalgadob/accountingSoftware)
