@@ -46,3 +46,34 @@
 **Link to work**
 1. [FreeCodeCamp html](https://github.com/dasalgadob/freeCodeCamp/tree/master/html)
 2. [Accounting App](https://github.com/dasalgadob/accountingSoftware)
+
+
+### Day 6: July 1, Sunday
+
+**Today's Progress**: Solve several challenges in freeCodeCamp.
+
+**Thoughts**: It's true that those topics I have know them for a long time, but it's the base for all the advanced topics that I want to learn after. It was a little hard to figure it out how to solve the problem.
+
+**Link to work**
+1. [FreeCodeCamp html](https://github.com/dasalgadob/freeCodeCamp/tree/master/html)
+
+### Day 7: July 2, Monday
+
+**Today's Progress**: Solve homework for graph analysis.
+
+**Thoughts**: It was simple but somehow though to solve.
+
+**Link to work**
+[Prim's Dijkstra and some basic graph algorithm](https://github.com/dasalgadob/pythonAlgoritmhs/tree/master/algorithmsBook)
+
+
+### Day 8: July 3, Tuesday
+
+**Today's Progress**: Improvements in accountingSoftware and freeCodeCamp challenges solved.
+
+**Thoughts**: Breadcumbs links added in accounting project, and several challenges about colors in css solved.
+
+**Link to work**
+1. [FreeCodeCamp html](https://github.com/dasalgadob/freeCodeCamp/tree/master/html)
+2. [Accounting App](https://github.com/dasalgadob/accountingSoftware)
+
