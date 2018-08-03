@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 13, 2018 Wednesday
+### Day 1: August 2, 2018 Thursday
 
 **Today's Objective**: Implement thumbnails, validation and other issues from accounting software
 
